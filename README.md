@@ -1,6 +1,5 @@
-# Social_Media_Application
 # Social Media Application using FastAPI, SQLAlchemy, Alembic, and PostgreSQL
-
+- [Social Media Application](./Social_Media_Application/)
 ## Table of Contents
 1. [Overview](#overview)
 2. [Technologies Used](#technologies-used)
