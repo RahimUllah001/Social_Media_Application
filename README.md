@@ -93,12 +93,10 @@ project/
 │-- config.py
 │-- database.py
 │-- explanation.txt
-│-- fadapi_app.sql
 │-- main.py
 │-- models.py
 │-- oauth2.py
 │-- schemas.py
-│-- tut.txt
 │-- utils.py
 ```
 ---
