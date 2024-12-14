@@ -1,0 +1,1 @@
+pip install python-multipart ==> this is used for uploading image
