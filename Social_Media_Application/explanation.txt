@@ -1,1 +1,2 @@
 pip install python-multipart ==> this is used for uploading image
+pipreqs . --force ==> this line is used for gernerate a req file conraining onoly tose req which are used the giv eproject

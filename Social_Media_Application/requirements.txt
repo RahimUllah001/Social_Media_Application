@@ -1,0 +1,10 @@
+fastapi==0.115.6
+passlib==1.7.4
+psycopg2==2.9.10
+psycopg2_binary==2.9.10
+pydantic==2.10.3
+pydantic_settings==2.7.0
+python-dotenv==1.0.1
+python_jose==3.3.0
+SQLAlchemy==2.0.35
+python-multipart
